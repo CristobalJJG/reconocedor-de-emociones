@@ -13,6 +13,7 @@ La segunda celda implica la emoción que va a capturar la cámara, esta es la ce
 
 La tercera celda es para crear las carpetas donde se guardará las fotos, en caso de querer tener un sentimiento nuevo, solo habrá que añadirlo en la celda 2 y ejecutar la celda 3 para que se cree la carpeta.
 
+La última celda es donde se capturan las fotos y se insertan en la carpeta correspondiente, justo antes de la celda viene explicado los cambios que hay que hacer
 
 
 tienes que ir descomentando cada emoción de las 5 para que se vayan guardando. Aquí también tienes que cambiar en la última celda los números count es el número de la última foto que haya en cada carpeta, y dentro del if del final de la celda, cambiar el coun >= al número que tu quieras (te sacará fotos desde count hasta coun >= x)
